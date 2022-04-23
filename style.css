@@ -358,7 +358,7 @@ footer h4 {
 @media (min-width: 765px) {
   main p {
     line-height: 27px;
-    font-size: 14px;
+    
   }
 
   a {
@@ -368,7 +368,13 @@ footer h4 {
   .main-container {
     overflow: hidden;
     min-width: 60em;
+
   }
+
+.main-container p{
+font-size: 14px;
+}
+
   header {
     padding: 0 3em;
   }
