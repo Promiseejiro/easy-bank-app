@@ -445,6 +445,10 @@ font-size: 14px;
     text-align: start;
   }
 
+.offer p{
+font-size: 14px;
+}
+
   .offer svg {
     text-align: left;
   }
